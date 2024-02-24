@@ -32,6 +32,7 @@ A continuously updated collection of things that I like
 
 ### Tools
 
+- [Mobbin](https://mobbin.com/) - design inspo
 - [Color Designer](https://colordesigner.io/)
 - [Obsidian](https://obsidian.md/) - great for notetaking
 - [Todoist](https://todoist.com/)
