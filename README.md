@@ -53,6 +53,7 @@ A continuously updated collection of things that I like
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [ByteByteGo](https://blog.bytebytego.com/?utm_source=site) - great for systems design
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Netflix](https://netflixtechblog.medium.com/)
 
 ### Books
 
