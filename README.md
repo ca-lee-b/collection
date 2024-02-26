@@ -28,7 +28,7 @@ A continuously updated collection of things that I like
 - [Pocketbase](https://github.com/pocketbase/pocketbase) - full Go backend
 - [Cal](https://github.com/calcom/cal.com) - open source calendly replacement
 - [Apollo Backend](https://github.com/christianselig/apollo-backend) - backend of the Apollo app
--
+- [Uninbox](https://github.com/un/inbox)
 
 ### Tools
 
@@ -68,6 +68,7 @@ A continuously updated collection of things that I like
 - [Chris Raroque](https://www.youtube.com/@raroque)
 - [Nick Craux](https://www.youtube.com/@nickcraux)
 - [YCombinator](https://www.youtube.com/@ycombinator)
+- [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
 
 ### Misc
 
