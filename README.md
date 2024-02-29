@@ -58,6 +58,7 @@ A continuously updated collection of things that I like
 ### Books
 
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - my holy grail
+- [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
 
 ### Youtube channels
 
