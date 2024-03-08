@@ -70,6 +70,7 @@ A continuously updated collection of things that I like
 - [Nick Craux](https://www.youtube.com/@nickcraux)
 - [YCombinator](https://www.youtube.com/@ycombinator)
 - [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
+- [Lofi Startup](https://www.youtube.com/@lofistartupHQ/videos) - good for the technical sides of startups
 
 ### Misc
 
