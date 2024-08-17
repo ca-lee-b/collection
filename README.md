@@ -8,13 +8,13 @@ A continuously updated collection of things that I like
 
 #### [Tools](#tools)
 
-#### [Social Media](#social)
+#### [Social Media](#social-media)
 
-#### [Blogs / Newsletters](#blogs--newsletters)
+#### [Blogs / Newsletters](#blogs-/-newsletters)
 
 #### [Books](#books)
 
-#### [Youtube channels](#table-of-contents)
+#### [Youtube channels](#youtube-channels)
 
 #### [Misc](#misc)
 
