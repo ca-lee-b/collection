@@ -23,6 +23,7 @@ A continuously updated collection of things that I like
 ### Repos
 
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Open Panel](https://github.com/Openpanel-dev/openpanel)
 - [Dub](https://github.com/dubinc/dub) - open source production app in next.js
 - [Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - great for learning DDD
 - [Pocketbase](https://github.com/pocketbase/pocketbase) - full Go backend
