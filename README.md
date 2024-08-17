@@ -8,7 +8,7 @@ A continuously updated collection of things that I like
 
 #### [Tools](#tools)
 
-#### [Twitter accounts](#twitter)
+#### [Social Media](#social)
 
 #### [Blogs / Newsletters](#blogs--newsletters)
 
@@ -38,7 +38,7 @@ A continuously updated collection of things that I like
 - [Obsidian](https://obsidian.md/) - great for notetaking
 - [Todoist](https://todoist.com/)
 
-### Twitter accounts
+### Social media
 
 - [David Park](https://twitter.com/Davidjpark96) - saas, entrepeneurship
 - [Jason Liu](https://twitter.com/jxnlco) - ai/ml
